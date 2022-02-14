@@ -89,9 +89,22 @@
   &emsp;
 </p>
 
+<p>
+
+## 📝 Recent Projects
+### [Individual web development of a SPA using external API: ](https://github.com/wikonarider/PIcountries)<br>
+Using React for Front End, Redux as state management and styles with pure CSS. In Back End Express and relational database.
+Some features: search for countries, filtering according their properties, country cards of details, add tourist activities for the country.
+
+### [ WebService E-commerce: ](https://github.com/wikonarider/Web-Services)<br>
+Developed with a team of 8 people, using Trello and GITHUB. To offer or purchase services.
+Some features implemented: Backend with express and relational table models with ProgresSQL, Sequelize. Front-end React, Redux, Registration, Login, Payments. Material UI. Admin and user panels. Multiple filtering. Applying agile methodologies (SCRUM).
+
+</p>
+
 <br/>
 
-## 🙋‍♀️ Let's Connect 
+## 🤝🏻 Connect with Me
 <p align="left">
     📩 micaela.mntr@gmail.com
     🔗 https://www.linkedin.com/in/micaela-montero-295141217/
