@@ -4,7 +4,6 @@
 </p>
 <hr/>
 
-<hr/>
 <h4 align="center">I am a Junior at Arg graduated from Henry's bootcamp specializing in UX/UI, I like Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges, especially those projects with positive social impact and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
@@ -46,7 +45,7 @@
   
 ### 👉Graphic Designing
 <p align="left">
-      &emsp; 
+   &emsp; 
    <a href="https://www.figma.com/"> 
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%2300C4CC.svg?style=flat&logo=Figma&logoColor=white"/>
   </a> 
@@ -54,10 +53,6 @@
   &emsp; 
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
   </a> 
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
@@ -107,6 +102,7 @@ Some features implemented: Backend with express and relational table models with
 ## 🤝🏻 Connect with Me
 <p align="left">
     📩 micaela.mntr@gmail.com
+  <br/>
     🔗 https://www.linkedin.com/in/micaela-montero-295141217/
 </p>
 
