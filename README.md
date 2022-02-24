@@ -4,7 +4,7 @@
 </p>
 <hr/>
 
-<h4 align="center">I am a Junior at Arg graduated from Henry's bootcamp specializing in UX/UI, I like Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges, especially those projects with positive social impact and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Full Stack Web Developer Junior at Arg graduated from Henry's bootcamp learning UX/UI. I like Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges, especially those projects with positive social impact, and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -43,7 +43,7 @@
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
  </p>
   
-### 👉Graphic Designing
+### 👉 Graphic Designing
 <p align="left">
    &emsp; 
    <a href="https://www.figma.com/"> 
