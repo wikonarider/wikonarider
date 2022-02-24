@@ -20,6 +20,10 @@
 
 ### 👉 Frontend Development
 <p align="left"> 
+    &emsp; 
+  <a href="https://reactjs.org/" target="_blank"> 
+   <img alt="REACT" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=React&logoColor=white">
+  </a>  
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -54,10 +58,6 @@
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
     &emsp;
     <a href="https://www.adobe.com/in/products/photoshop.html" target="blank">
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2300C4CC.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
